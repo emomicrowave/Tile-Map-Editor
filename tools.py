@@ -63,10 +63,10 @@ class Buttons:
 			world.allPlains()
 		if self.clicked(event, self.loadWorldButton.rect):
 			print "*le Click!"
-			world.load()
+			world.load_json()
 		if self.clicked(event, self.saveWorldButton.rect):
 			print "*DAS CLICKSTEIN"
-			world.save()
+			world.save_json()
 
 		if self.clicked(event, self.redButton.rect):
 			self.red_button_clicked()

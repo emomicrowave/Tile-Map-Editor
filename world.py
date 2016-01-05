@@ -1,4 +1,4 @@
-import spritesheet, tools
+import spritesheet, tools, json
 
 class World:
 	# Class variables:
@@ -43,89 +43,58 @@ class World:
 				#self.tileInfo_grid[x][y] = TileInfo(color = self.col.s_light_green, is_grass=True)
 				self.tileInfo_grid[x][y] = TileInfo(is_grass=True)
 
-	def save(self):
-		f = open('world.txt', "w")
 
+	def save_json(self):
+		data = {}
 		for x in range (0, len(self.grid)):
 			for y in range (0, len(self.grid[x])):
-				f.write(str(self.tileInfo_grid[x][y].grid_id)+"=")
 
+				# color check
 				if self.tileInfo_grid[x][y].is_grass:
 					self.tileInfo_grid[x][y].color == self.col.s_light_green
-				f.write(str(self.tileInfo_grid[x][y].color) + ";")
 
-				if self.tileInfo_grid[x][y].entity_id is 0 or self.tileInfo_grid[x][y].entity_id is None:
-					f.write("NA=")
-				else:
-					f.write(str(self.tileInfo_grid[x][y].entity_id) + "=")
-				f.write(str(self.tileInfo_grid[x][y].entity_color))
-				f.write("|")
-			f.write("\n")
-		f.close()
+				# id check
+				if self.tileInfo_grid[x][y].entity_id is None:
+					self.tileInfo_grid[x][y].entity_id = 0
 
-	def load(self):
-		f = open('world.txt', "r")
+				temp_dir = {
+					"tile_id"		: self.tileInfo_grid[x][y].grid_id,
+					"tile_color"	: self.tileInfo_grid[x][y].color,
+					"entity_id"		: self.tileInfo_grid[x][y].entity_id,
+					"entity_color"	: self.tileInfo_grid[x][y].entity_color
+				}
+
+				data[str((x,y))] = temp_dir
+
+		with open("world.json", "w") as f:
+			json.dump(data, f, sort_keys = True, indent = 4, ensure_ascii=False)
+
+	def load_json(self):
 		self.allPlains()
-		lines = f.readlines()
-		lines_two = []
+		with open("world.json", "r") as f:
+			data = json.load(f)
+			for x in range (0, len(self.grid)):
+				for y in range (0, len(self.grid[x])):
+					temp = data[str((x,y))]
+					self.tileInfo_grid[x][y].grid_ids		= temp["tile_id"]
+					self.tileInfo_grid[x][y].color 			= temp["tile_color"]
+					self.tileInfo_grid[x][y].entity_id 		= temp["entity_id"]
+					self.tileInfo_grid[x][y].entity_color 	= temp["entity_color"]
 
-		grid_ids = []
-		entity_ids = []
+					grid_id 	= self.tileInfo_grid[x][y].grid_ids
+					entity_id 	= self.tileInfo_grid[x][y].entity_id 
 
-		grid_colors = []
-		entity_colors = []
+					if grid_id == 96:
+						grid_id = 35
 
-		for line in lines:
-			line = line.strip('\n')
-			line = line[:-1]
-			lines_two.append(line)
+					grid_surf_copy 		= self.floor_tiles[grid_id].copy()
+					entity_surf_copy 	= self.other_tiles[entity_id].copy()
 
+					tools.brute_force_colorize(grid_surf_copy, self.tileInfo_grid[x][y].color )
+					tools.brute_force_colorize(entity_surf_copy, self.tileInfo_grid[x][y].entity_color )
 
-		for line in lines_two:
-			infos = line.split('|')
-			for info in infos:
-				temp_info = info.split(';')
-				grid_info = temp_info[0]
-				entity_info = temp_info[1]
-
-				temp_grid_info = grid_info.split('=')
-				grid_ids.append(int(temp_grid_info[0]))
-				grid_colors.append(self.string_to_color(temp_grid_info [1]))
-
-				temp_entity_info = entity_info.split('=')
-				if temp_entity_info[0] == "NA":
-					entity_ids.append(0)
-				else:
-					entity_ids.append(int(temp_entity_info[0]))
-				entity_colors.append(self.string_to_color(temp_entity_info[1]))
-
-		for x in range(0, self.sizeX):
-			for y in range(0, self.sizeY):
-				current_index = x*50 +y
-
-				grid_id = grid_ids[current_index]
-				entity_id = entity_ids[current_index]
-
-				grid_color = grid_colors[current_index]
-				entity_color = entity_colors[current_index]
-
-				#Fix grass indexing
-				if grid_id == 96:
-					grid_id = 35
-
-				grid_surf_copy = self.floor_tiles[grid_id].copy()
-				entity_surf_copy = self.other_tiles[entity_id].copy()
-
-				tools.brute_force_colorize(grid_surf_copy, grid_color)
-				tools.brute_force_colorize(entity_surf_copy, entity_color)
-
-				self.grid[x][y] = grid_surf_copy
-				self.entities_grid[x][y] = entity_surf_copy
-
-				self.tileInfo_grid[x][y] = TileInfo(color = grid_color, entity_color = entity_color)
-				self.tileInfo_grid[x][y].grid_id = grid_id
-				self.tileInfo_grid[x][y].entity_id = entity_id
-				self.tileInfo_grid[x][y].is_grass = False
+					self.grid[x][y]			= grid_surf_copy
+					self.entities_grid[x][y]= entity_surf_copy
 
 
 	def define_floor_tiles(self, colorkey = None):
