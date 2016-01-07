@@ -1,4 +1,5 @@
-import pygame, tools, spritesheet, os
+import pygame, os
+import tools, spritesheet, graphics
 from tools import Color
 from world import World
 SCR_RESOLUTION = (1390,900)
@@ -9,14 +10,17 @@ pygame.display.set_caption("Ascii Map Editor v 0.3")
 
 exitGame = False
 
-# Leave the world size 50x50. Otherwise everything will crash
-world = World(50, 50)
+# Class constructors
+
+graphics 	= graphics.Graphics()
+col 		= Color()
+world 		= World(50, 50, graphics) # Leave 50x50 for now
+button 		= tools.Buttons(world, graphics)
+
 world.allPlains()
 
-col = Color()
-button = tools.Buttons(world)
-work_dir = os.getcwd()
-clock = pygame.time.Clock()
+work_dir 	= os.getcwd()
+clock 		= pygame.time.Clock()
 
 while not exitGame:
 	clock.tick(60)

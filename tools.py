@@ -79,7 +79,7 @@ class Buttons:
 
 		if self.clicked(event, self.applyColor.rect):
 			c = self.rgb
-			brute_force_colorize(self.currentMapTile, (c[0], c[1], c[2], c[3]))
+			self.g.brute_force_colorize(self.currentMapTile, (c[0], c[1], c[2], c[3]))
 			self.currentTileColored = True
 
 
@@ -100,7 +100,7 @@ class Buttons:
 		if self.clicked(event, self.floorTiles.rect):
 			button_grid = []
 
-			self.currentGrid = world.floor_tiles
+			self.currentGrid = self.g.floor_tiles
 			self.currentDrawGrid = world.grid
 
 			self.floorTiles.backColor = self.c.light_red
@@ -112,7 +112,7 @@ class Buttons:
 		if self.clicked(event, self.otherTiles.rect):
 			button_grid = []
 
-			self.currentGrid = world.other_tiles
+			self.currentGrid = self.g.other_tiles
 			self.currentDrawGrid = world.entities_grid
 
 			self.floorTiles.backColor = self.c.dark_blue
@@ -121,12 +121,13 @@ class Buttons:
 			self.floorTiles.textColor = self.c.white
 			self.otherTiles.textColor = self.c.black
 
-	def __init__(self, world):
+	def __init__(self, world, graphics):
 		self.c = Color()
+		self.g = graphics
 
 		self.myfont = pygame.font.SysFont(BUTTON_FONTNAME, BUTTON_FONTSIZE)
 
-		self.currentMapTile = world.graphics[random.randint(0, len(world.graphics))]
+		self.currentMapTile = self.g.all_tiles[random.randint(0, len(self.g.all_tiles))]
 		self.currentTileColored = False
 		self.currentTileId = 0
 
@@ -134,7 +135,7 @@ class Buttons:
 		self.modify_which_color_value = 0
 		self.currentColor = (255, 255, 255)
 
-		self.currentGrid = world.floor_tiles
+		self.currentGrid = self.g.floor_tiles
 		self.currentDrawGrid = world.grid
 
 		# Using a list because 'tuple' doesn't support assingment
@@ -406,27 +407,6 @@ def current_button_preview(display, button, posX, posY):
 	pygame.transform.scale(button.currentMapTile, (64, 64), priview)
 	display.blit(priview, [posX,posY,16,16])
 
-def brute_force_colorize(surface, target_color):
-	for x in range (surface.get_size()[0]):
-		for y in range (surface.get_size()[1]):
-			current_color = surface.get_at([x, y])
-			if current_color[0] is not 128 and current_color[1] is not 128 and current_color[2] is not 128:
-				alpha_percent = current_color[3]*100/255
-				white_intensity = []
-				white_intensity.append(current_color[0]*100/255)
-				white_intensity.append(current_color[1]*100/255)
-				white_intensity.append(current_color[2]*100/255)
-
-				new_color = [0,0,0,0]
-
-				for i in range(0,3):
-					new_color[i] = target_color[i] * white_intensity[i]/100 * alpha_percent/100
-				new_color[3] = current_color[3]  # set alpha
-
-				surface.set_at([x,y], new_color)
-			else:
-				banana = 5
-
 
 def is_square(apositiveint):
 	x = apositiveint//2
@@ -436,20 +416,6 @@ def is_square(apositiveint):
 		if x in seen: return False
 		seen.add(x)
 	return True
-
-def remove_bad_pixels(tile_surface, remove_color):
-	for x in range (tile_surface.get_size()[0]):
-		for y in range (tile_surface.get_size()[1]):
-			current_color = tile_surface.get_at((x,y))
-			if current_color[0] == remove_color[0] and current_color[1] == remove_color[1] and current_color[2] == remove_color[2]:
-				tile_surface.set_at((x,y), (current_color[0]-1, current_color[1]-1, current_color[2]-1, 255))
-			else:
-				banana = 5
-
-def make_completely_transparent(surface, colorkey = (128,128,128,255)):
-	for x in range (surface.get_size()[0]):
-		for y in range (surface.get_size()[1]):
-			surface.set_at((x,y), colorkey)
 
 """
 
