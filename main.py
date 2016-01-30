@@ -1,4 +1,4 @@
-import pygame, os
+import pygame, os, sys
 import tools, spritesheet, graphics, buttons
 from tools import Color
 from world import World
@@ -11,6 +11,8 @@ pygame.display.set_caption("Ascii Map Editor v 0.4")
 exitGame = False
 
 # Class constructors
+
+sys.setrecursionlimit(10000) #MUAHAHAHAHA
 
 graphics 	= graphics.Graphics()
 col 		= Color()

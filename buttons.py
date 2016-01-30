@@ -106,6 +106,8 @@ class Buttons:
 
 			self.click(self.brushDraw)
 			self.unclick(self.rektDraw)
+			self.unclick(self.fillDraw)
+
 
 		if self.clicked(event, self.rektDraw.rect):
 			tools.draw_method = "rect"
@@ -113,6 +115,16 @@ class Buttons:
 
 			self.unclick(self.brushDraw)
 			self.click(self.rektDraw)
+			self.unclick(self.fillDraw)
+
+
+		if self.clicked(event, self.fillDraw.rect):
+			tools.draw_method = "fill"
+			tools.rect_mouse_start = (0,0)
+
+			self.unclick(self.brushDraw)
+			self.unclick(self.rektDraw)
+			self.click(self.fillDraw)
 
 		# Other options
 		if self.clicked(event, self.show_walkable.rect):
@@ -168,6 +180,7 @@ class Buttons:
 
 		self.brushDraw = SmallButton(self, "Brush draw", 1030,670, backColor=self.c.dark_blue, textColor=self.c.white)
 		self.rektDraw = SmallButton(self, "Rect draw", 1030,710, backColor=self.c.dark_blue, textColor=self.c.white)
+		self.fillDraw = SmallButton(self, "Fill", 1030,750, backColor=self.c.dark_blue, textColor=self.c.white)
 
 	def draw_all(self, display):
 		self.drawButton(self.newWorldButton, display)
@@ -192,6 +205,7 @@ class Buttons:
 
 		self.drawButton(self.brushDraw, display)
 		self.drawButton(self.rektDraw, display)
+		self.drawButton(self.fillDraw, display)
 
 	def drawButton(self, smallButton, display):
 		display.fill(smallButton.backColor, smallButton.rect)
@@ -220,6 +234,7 @@ class Buttons:
 
 		self.update_button_reuse(self.rektDraw)
 		self.update_button_reuse(self.brushDraw)
+		self.update_button_reuse(self.fillDraw)
 
 		self.update_button_reuse(self.show_walkable)
 

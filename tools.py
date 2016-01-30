@@ -81,6 +81,15 @@ def event_handling(button, world):
 					rect_draw(world, button, pygame.mouse.get_pos())
 					rect_mouse_start = (0,0)
 
+			elif draw_method == "fill":
+				mouse_pos = pygame.mouse.get_pos()
+				mouse_rekt = pygame.Rect(mouse_pos, (2,2))
+				result = mouse_rekt.collidelist(clickable_rectangles)
+				if result != -1:
+					x = int(result/world.sizeX)
+					y = result % world.sizeX
+					fill_draw(world, button, button.currentDrawGrid[x][y], x, y)
+
 		if event.type == pygame.MOUSEBUTTONUP:
 			world.mouse_button_down = False
 
@@ -108,6 +117,41 @@ def rect_draw(world, button, mouse_pos):
 				if button.currentTileColored:
 					world.tileInfo_grid[i][j].color = (c[0], c[1], c[2], c[3])
 
+def fill_draw(world, button, origin, x,y):
+	c = button.rgb
+	print "%d, %d" % (x, y)
+	if button.currentDrawGrid[x][y] == origin:
+		button.currentDrawGrid[x][y] = button.currentMapTile
+		world.tileInfo_grid[x][y].walkable = walkable
+		world.tileInfo_grid[x][y].is_grass = False
+		world.tileInfo_grid[x][y].grid_id = button.currentTileId
+		if button.currentTileColored:
+			world.tileInfo_grid[x][y].color = (c[0], c[1], c[2], c[3])
+
+
+		# Recursion:
+		if x is 0:
+			pass
+		else:
+			fill_draw(world, button, origin, x-1, y)
+
+		if x is world.sizeX-1:
+			pass
+		else:
+			fill_draw(world, button, origin, x+1, y)
+
+		if y is 0:
+			pass
+		else:
+			fill_draw(world, button, origin, x, y-1)
+
+		if y is world.sizeY-1:
+			pass
+		else:
+			fill_draw(world, button, origin, x, y+1)
+		return
+	else:
+		return
 
 
 def mouse_drag_to_draw(world, button):

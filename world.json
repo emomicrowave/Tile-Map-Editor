@@ -1948,12 +1948,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 11)": {
@@ -1967,12 +1967,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 12)": {
@@ -1986,12 +1986,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 13)": {
@@ -2005,12 +2005,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 14)": {
@@ -2024,12 +2024,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 15)": {
@@ -2043,12 +2043,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 16)": {
@@ -2062,12 +2062,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 17)": {
@@ -2081,12 +2081,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 18)": {
@@ -2100,12 +2100,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 19)": {
@@ -2119,12 +2119,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 2)": {
@@ -2157,12 +2157,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 21)": {
@@ -2784,12 +2784,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 7)": {
@@ -2803,12 +2803,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 8)": {
@@ -2822,12 +2822,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(10, 9)": {
@@ -2841,12 +2841,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 0)": {
@@ -2898,12 +2898,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 11)": {
@@ -2917,12 +2917,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 12)": {
@@ -2936,12 +2936,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 13)": {
@@ -2955,12 +2955,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 14)": {
@@ -2974,12 +2974,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 15)": {
@@ -2993,12 +2993,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 16)": {
@@ -3012,12 +3012,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 17)": {
@@ -3031,12 +3031,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 18)": {
@@ -3050,12 +3050,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 19)": {
@@ -3069,12 +3069,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 2)": {
@@ -3107,12 +3107,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 21)": {
@@ -3734,12 +3734,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 7)": {
@@ -3753,12 +3753,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 8)": {
@@ -3772,12 +3772,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(11, 9)": {
@@ -3791,12 +3791,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 0)": {
@@ -3848,12 +3848,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 11)": {
@@ -3867,12 +3867,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 12)": {
@@ -3886,12 +3886,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 13)": {
@@ -3905,12 +3905,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 14)": {
@@ -3924,12 +3924,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 15)": {
@@ -3943,12 +3943,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 16)": {
@@ -3962,12 +3962,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 17)": {
@@ -3981,12 +3981,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 18)": {
@@ -4000,12 +4000,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 19)": {
@@ -4019,12 +4019,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 2)": {
@@ -4057,12 +4057,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 21)": {
@@ -4684,12 +4684,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 7)": {
@@ -4703,12 +4703,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 8)": {
@@ -4722,12 +4722,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(12, 9)": {
@@ -4741,12 +4741,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 0)": {
@@ -4798,12 +4798,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 11)": {
@@ -4817,12 +4817,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 12)": {
@@ -4836,12 +4836,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 13)": {
@@ -4855,12 +4855,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 14)": {
@@ -4874,12 +4874,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 15)": {
@@ -4893,12 +4893,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 16)": {
@@ -4912,12 +4912,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 17)": {
@@ -4931,12 +4931,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 18)": {
@@ -4950,12 +4950,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 19)": {
@@ -4969,12 +4969,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 2)": {
@@ -5007,12 +5007,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 21)": {
@@ -5634,12 +5634,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 7)": {
@@ -5653,12 +5653,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 8)": {
@@ -5672,12 +5672,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(13, 9)": {
@@ -5691,12 +5691,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 0)": {
@@ -5748,12 +5748,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 11)": {
@@ -5767,12 +5767,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 12)": {
@@ -5786,12 +5786,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 13)": {
@@ -5805,12 +5805,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 14)": {
@@ -5824,12 +5824,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 15)": {
@@ -5843,12 +5843,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 16)": {
@@ -5862,12 +5862,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 17)": {
@@ -5881,12 +5881,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 18)": {
@@ -5900,12 +5900,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 19)": {
@@ -5919,12 +5919,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 2)": {
@@ -5957,12 +5957,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 21)": {
@@ -6584,12 +6584,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 7)": {
@@ -6603,12 +6603,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 8)": {
@@ -6622,12 +6622,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(14, 9)": {
@@ -6641,12 +6641,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 0)": {
@@ -6698,12 +6698,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 11)": {
@@ -6722,7 +6722,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 12)": {
@@ -6741,7 +6741,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 13)": {
@@ -6755,12 +6755,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 14)": {
@@ -6774,12 +6774,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 15)": {
@@ -6793,12 +6793,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 16)": {
@@ -6812,12 +6812,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 17)": {
@@ -6831,12 +6831,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 18)": {
@@ -6850,12 +6850,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 19)": {
@@ -6869,12 +6869,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 2)": {
@@ -6907,12 +6907,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 21)": {
@@ -7534,12 +7534,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 7)": {
@@ -7553,12 +7553,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 8)": {
@@ -7577,7 +7577,7 @@
             255, 
             255
         ], 
-        "tile_id": 0, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(15, 9)": {
@@ -7591,12 +7591,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 0)": {
@@ -7648,12 +7648,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 11)": {
@@ -7667,12 +7667,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 12)": {
@@ -7691,7 +7691,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 13)": {
@@ -7710,7 +7710,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 14)": {
@@ -7724,12 +7724,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 15)": {
@@ -7743,12 +7743,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 16)": {
@@ -7762,12 +7762,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 17)": {
@@ -7781,12 +7781,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 18)": {
@@ -7800,12 +7800,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 19)": {
@@ -7819,12 +7819,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 2)": {
@@ -7857,12 +7857,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 21)": {
@@ -8484,12 +8484,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 7)": {
@@ -8503,12 +8503,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 8)": {
@@ -8522,12 +8522,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(16, 9)": {
@@ -8541,12 +8541,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 0)": {
@@ -8598,12 +8598,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 11)": {
@@ -8617,12 +8617,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 12)": {
@@ -8636,12 +8636,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 13)": {
@@ -8655,12 +8655,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 14)": {
@@ -8674,13 +8674,13 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(17, 15)": {
         "dir_wall": false, 
@@ -8693,12 +8693,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 16)": {
@@ -8712,12 +8712,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 17)": {
@@ -8731,12 +8731,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 18)": {
@@ -8750,12 +8750,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 19)": {
@@ -8769,12 +8769,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 2)": {
@@ -8807,12 +8807,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 21)": {
@@ -9434,12 +9434,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 7)": {
@@ -9453,12 +9453,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 8)": {
@@ -9472,12 +9472,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(17, 9)": {
@@ -9491,12 +9491,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 0)": {
@@ -9548,12 +9548,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 11)": {
@@ -9567,12 +9567,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 12)": {
@@ -9586,12 +9586,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 13)": {
@@ -9610,7 +9610,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 14)": {
@@ -9624,12 +9624,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 15)": {
@@ -9643,12 +9643,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 16)": {
@@ -9662,12 +9662,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 17)": {
@@ -9681,12 +9681,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 18)": {
@@ -9700,12 +9700,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 19)": {
@@ -9719,12 +9719,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 2)": {
@@ -9757,12 +9757,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 21)": {
@@ -10384,12 +10384,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 7)": {
@@ -10403,12 +10403,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 8)": {
@@ -10422,12 +10422,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(18, 9)": {
@@ -10441,12 +10441,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 0)": {
@@ -10498,12 +10498,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 11)": {
@@ -10517,12 +10517,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 12)": {
@@ -10536,12 +10536,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 13)": {
@@ -10560,7 +10560,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 14)": {
@@ -10574,12 +10574,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 15)": {
@@ -10593,12 +10593,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 16)": {
@@ -10612,12 +10612,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 17)": {
@@ -10631,12 +10631,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 18)": {
@@ -10650,13 +10650,13 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(19, 19)": {
         "dir_wall": false, 
@@ -10669,12 +10669,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 2)": {
@@ -10707,12 +10707,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 21)": {
@@ -11334,12 +11334,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 7)": {
@@ -11353,12 +11353,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 8)": {
@@ -11372,12 +11372,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(19, 9)": {
@@ -11391,12 +11391,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(2, 0)": {
@@ -12398,12 +12398,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 11)": {
@@ -12417,12 +12417,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 12)": {
@@ -12436,12 +12436,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 13)": {
@@ -12460,7 +12460,7 @@
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 14)": {
@@ -12474,12 +12474,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 15)": {
@@ -12493,12 +12493,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 16)": {
@@ -12512,12 +12512,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 17)": {
@@ -12531,12 +12531,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 18)": {
@@ -12550,12 +12550,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 19)": {
@@ -12569,12 +12569,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 2)": {
@@ -12607,12 +12607,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 21)": {
@@ -13234,12 +13234,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 7)": {
@@ -13253,12 +13253,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 8)": {
@@ -13272,12 +13272,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(20, 9)": {
@@ -13291,12 +13291,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 0)": {
@@ -13348,12 +13348,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 11)": {
@@ -13367,12 +13367,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 12)": {
@@ -13386,12 +13386,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 13)": {
@@ -13405,12 +13405,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 14)": {
@@ -13424,12 +13424,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 15)": {
@@ -13443,12 +13443,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 16)": {
@@ -13462,12 +13462,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 17)": {
@@ -13481,12 +13481,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 18)": {
@@ -13500,12 +13500,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 19)": {
@@ -13519,12 +13519,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 2)": {
@@ -13557,12 +13557,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 21)": {
@@ -14184,12 +14184,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 7)": {
@@ -14203,12 +14203,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 8)": {
@@ -14222,12 +14222,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(21, 9)": {
@@ -14241,12 +14241,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 0)": {
@@ -14303,8 +14303,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(22, 11)": {
         "dir_wall": false, 
@@ -14322,8 +14322,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(22, 12)": {
         "dir_wall": false, 
@@ -14336,12 +14336,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 13)": {
@@ -14355,12 +14355,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 14)": {
@@ -14374,12 +14374,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 15)": {
@@ -14393,12 +14393,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 16)": {
@@ -14412,12 +14412,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 17)": {
@@ -14431,12 +14431,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 18)": {
@@ -14450,12 +14450,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 19)": {
@@ -14469,12 +14469,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 2)": {
@@ -14507,12 +14507,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 21)": {
@@ -15134,12 +15134,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 7)": {
@@ -15153,12 +15153,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 8)": {
@@ -15172,12 +15172,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(22, 9)": {
@@ -15196,8 +15196,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(23, 0)": {
         "dir_wall": false, 
@@ -15248,12 +15248,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 11)": {
@@ -15267,12 +15267,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 12)": {
@@ -15291,8 +15291,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(23, 13)": {
         "dir_wall": false, 
@@ -15310,8 +15310,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(23, 14)": {
         "dir_wall": false, 
@@ -15329,8 +15329,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(23, 15)": {
         "dir_wall": false, 
@@ -15343,12 +15343,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 16)": {
@@ -15362,12 +15362,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 17)": {
@@ -15381,12 +15381,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 18)": {
@@ -15400,12 +15400,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 19)": {
@@ -15419,12 +15419,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 2)": {
@@ -15457,12 +15457,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 21)": {
@@ -16084,12 +16084,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 7)": {
@@ -16103,12 +16103,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 8)": {
@@ -16122,12 +16122,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(23, 9)": {
@@ -16141,12 +16141,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 0)": {
@@ -16198,12 +16198,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 11)": {
@@ -16217,12 +16217,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 12)": {
@@ -16236,12 +16236,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 13)": {
@@ -16255,12 +16255,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 14)": {
@@ -16274,12 +16274,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 15)": {
@@ -16298,8 +16298,8 @@
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(24, 16)": {
         "dir_wall": false, 
@@ -16312,12 +16312,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 17)": {
@@ -16331,12 +16331,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 18)": {
@@ -16350,12 +16350,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 19)": {
@@ -16369,12 +16369,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 2)": {
@@ -16407,12 +16407,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 21)": {
@@ -17034,12 +17034,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 7)": {
@@ -17053,12 +17053,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 8)": {
@@ -17072,12 +17072,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(24, 9)": {
@@ -17091,12 +17091,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 0)": {
@@ -17148,12 +17148,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 11)": {
@@ -17167,12 +17167,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 12)": {
@@ -17186,12 +17186,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 13)": {
@@ -17205,12 +17205,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 14)": {
@@ -17224,12 +17224,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 15)": {
@@ -17243,12 +17243,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 16)": {
@@ -17262,12 +17262,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 17)": {
@@ -17281,12 +17281,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 18)": {
@@ -17300,12 +17300,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 19)": {
@@ -17319,12 +17319,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 2)": {
@@ -17357,12 +17357,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 21)": {
@@ -17984,12 +17984,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 7)": {
@@ -18003,12 +18003,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 8)": {
@@ -18022,12 +18022,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(25, 9)": {
@@ -18041,12 +18041,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 0)": {
@@ -18098,12 +18098,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 11)": {
@@ -18117,12 +18117,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 12)": {
@@ -18136,12 +18136,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 13)": {
@@ -18155,13 +18155,13 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(26, 14)": {
         "dir_wall": false, 
@@ -18174,12 +18174,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 15)": {
@@ -18193,12 +18193,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 16)": {
@@ -18212,12 +18212,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 17)": {
@@ -18231,12 +18231,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 18)": {
@@ -18250,12 +18250,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 19)": {
@@ -18269,12 +18269,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 2)": {
@@ -18307,12 +18307,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 21)": {
@@ -18934,12 +18934,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 7)": {
@@ -18953,12 +18953,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 8)": {
@@ -18972,12 +18972,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(26, 9)": {
@@ -18991,12 +18991,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 0)": {
@@ -19048,12 +19048,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 11)": {
@@ -19067,12 +19067,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 12)": {
@@ -19086,12 +19086,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 13)": {
@@ -19105,12 +19105,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 14)": {
@@ -19124,12 +19124,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 15)": {
@@ -19143,12 +19143,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 16)": {
@@ -19162,12 +19162,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 17)": {
@@ -19181,13 +19181,13 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            225, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 17, 
-        "walkable": false
+        "tile_id": 96, 
+        "walkable": true
     }, 
     "(27, 18)": {
         "dir_wall": false, 
@@ -19200,12 +19200,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 19)": {
@@ -19219,12 +19219,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 2)": {
@@ -19257,12 +19257,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 21)": {
@@ -19884,12 +19884,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 7)": {
@@ -19903,12 +19903,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 8)": {
@@ -19922,12 +19922,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(27, 9)": {
@@ -19941,12 +19941,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 0)": {
@@ -19998,12 +19998,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 11)": {
@@ -20017,12 +20017,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 12)": {
@@ -20036,12 +20036,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 13)": {
@@ -20055,12 +20055,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 14)": {
@@ -20074,12 +20074,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 15)": {
@@ -20093,12 +20093,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 16)": {
@@ -20112,12 +20112,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 17)": {
@@ -20131,12 +20131,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 18)": {
@@ -20150,12 +20150,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 19)": {
@@ -20169,12 +20169,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 2)": {
@@ -20207,12 +20207,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 21)": {
@@ -20834,12 +20834,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 7)": {
@@ -20853,12 +20853,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 8)": {
@@ -20872,12 +20872,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(28, 9)": {
@@ -20891,12 +20891,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 0)": {
@@ -20948,12 +20948,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 11)": {
@@ -20967,12 +20967,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 12)": {
@@ -20986,12 +20986,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 13)": {
@@ -21005,12 +21005,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 14)": {
@@ -21024,12 +21024,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 15)": {
@@ -21043,12 +21043,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 16)": {
@@ -21062,12 +21062,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 17)": {
@@ -21081,12 +21081,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 18)": {
@@ -21100,12 +21100,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 19)": {
@@ -21119,12 +21119,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 2)": {
@@ -21157,12 +21157,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 21)": {
@@ -21784,12 +21784,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 7)": {
@@ -21803,12 +21803,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 8)": {
@@ -21822,12 +21822,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(29, 9)": {
@@ -21841,12 +21841,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(3, 0)": {
@@ -22848,12 +22848,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 11)": {
@@ -22867,12 +22867,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 12)": {
@@ -22886,12 +22886,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 13)": {
@@ -22905,12 +22905,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 14)": {
@@ -22924,12 +22924,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 15)": {
@@ -22943,12 +22943,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 16)": {
@@ -22962,12 +22962,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 17)": {
@@ -22981,12 +22981,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 18)": {
@@ -23000,12 +23000,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 19)": {
@@ -23019,12 +23019,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 2)": {
@@ -23057,12 +23057,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 21)": {
@@ -23684,12 +23684,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 7)": {
@@ -23703,12 +23703,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 8)": {
@@ -23722,12 +23722,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(30, 9)": {
@@ -23741,12 +23741,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(31, 0)": {
@@ -23917,7 +23917,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(31, 17)": {
@@ -23936,7 +23936,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(31, 18)": {
@@ -23955,7 +23955,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(31, 19)": {
@@ -23974,7 +23974,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(31, 2)": {
@@ -24829,7 +24829,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(32, 15)": {
@@ -24848,7 +24848,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(32, 16)": {
@@ -24867,7 +24867,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(32, 17)": {
@@ -24883,10 +24883,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(32, 18)": {
@@ -24902,10 +24902,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(32, 19)": {
@@ -24921,10 +24921,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(32, 2)": {
@@ -24962,7 +24962,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(32, 21)": {
@@ -24981,7 +24981,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(32, 22)": {
@@ -25779,7 +25779,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(33, 15)": {
@@ -25795,10 +25795,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 16)": {
@@ -25814,10 +25814,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 17)": {
@@ -25833,10 +25833,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 18)": {
@@ -25852,10 +25852,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 19)": {
@@ -25871,10 +25871,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 2)": {
@@ -25909,10 +25909,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 21)": {
@@ -25928,10 +25928,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(33, 22)": {
@@ -25950,7 +25950,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(33, 23)": {
@@ -26710,7 +26710,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(34, 14)": {
@@ -26726,10 +26726,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 15)": {
@@ -26745,10 +26745,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 16)": {
@@ -26764,10 +26764,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 17)": {
@@ -26783,10 +26783,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 18)": {
@@ -26802,10 +26802,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 19)": {
@@ -26821,10 +26821,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 2)": {
@@ -26859,10 +26859,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 21)": {
@@ -26878,10 +26878,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 22)": {
@@ -26897,10 +26897,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(34, 23)": {
@@ -26919,7 +26919,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(34, 24)": {
@@ -27641,7 +27641,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(35, 13)": {
@@ -27660,7 +27660,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(35, 14)": {
@@ -27676,10 +27676,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 15)": {
@@ -27695,10 +27695,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 16)": {
@@ -27714,10 +27714,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 17)": {
@@ -27733,10 +27733,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 18)": {
@@ -27752,10 +27752,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 19)": {
@@ -27771,10 +27771,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 2)": {
@@ -27809,10 +27809,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 21)": {
@@ -27828,10 +27828,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 22)": {
@@ -27847,10 +27847,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(35, 23)": {
@@ -27869,7 +27869,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(35, 24)": {
@@ -28591,7 +28591,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(36, 13)": {
@@ -28607,10 +28607,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 14)": {
@@ -28626,10 +28626,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 15)": {
@@ -28645,10 +28645,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 16)": {
@@ -28664,10 +28664,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 17)": {
@@ -28683,10 +28683,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 18)": {
@@ -28702,10 +28702,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 19)": {
@@ -28721,10 +28721,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 2)": {
@@ -28759,10 +28759,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 21)": {
@@ -28778,10 +28778,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 22)": {
@@ -28797,10 +28797,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(36, 23)": {
@@ -28819,7 +28819,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(36, 24)": {
@@ -29541,7 +29541,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(37, 13)": {
@@ -29560,7 +29560,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(37, 14)": {
@@ -29576,10 +29576,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 15)": {
@@ -29595,10 +29595,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 16)": {
@@ -29614,10 +29614,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 17)": {
@@ -29633,10 +29633,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 18)": {
@@ -29652,10 +29652,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 19)": {
@@ -29671,10 +29671,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 2)": {
@@ -29709,10 +29709,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 21)": {
@@ -29728,10 +29728,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 22)": {
@@ -29747,10 +29747,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(37, 23)": {
@@ -29769,7 +29769,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(37, 24)": {
@@ -29788,7 +29788,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(37, 25)": {
@@ -30510,7 +30510,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(38, 14)": {
@@ -30526,10 +30526,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 15)": {
@@ -30545,10 +30545,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 16)": {
@@ -30564,10 +30564,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 17)": {
@@ -30583,10 +30583,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 18)": {
@@ -30602,10 +30602,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 19)": {
@@ -30621,10 +30621,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 2)": {
@@ -30659,10 +30659,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 21)": {
@@ -30678,10 +30678,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 22)": {
@@ -30697,10 +30697,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(38, 23)": {
@@ -30719,7 +30719,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(38, 24)": {
@@ -30738,7 +30738,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(38, 25)": {
@@ -31460,7 +31460,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(39, 14)": {
@@ -31476,10 +31476,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 15)": {
@@ -31495,10 +31495,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 16)": {
@@ -31514,10 +31514,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 17)": {
@@ -31533,10 +31533,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 18)": {
@@ -31552,10 +31552,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 19)": {
@@ -31571,10 +31571,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 2)": {
@@ -31609,10 +31609,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 21)": {
@@ -31628,10 +31628,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 22)": {
@@ -31647,10 +31647,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(39, 23)": {
@@ -31669,7 +31669,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(39, 24)": {
@@ -31688,7 +31688,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(39, 25)": {
@@ -33379,7 +33379,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(40, 15)": {
@@ -33395,10 +33395,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 16)": {
@@ -33414,10 +33414,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 17)": {
@@ -33433,10 +33433,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 18)": {
@@ -33452,10 +33452,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 19)": {
@@ -33471,10 +33471,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 2)": {
@@ -33509,10 +33509,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 21)": {
@@ -33528,10 +33528,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 22)": {
@@ -33547,10 +33547,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(40, 23)": {
@@ -33569,7 +33569,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(40, 24)": {
@@ -33588,7 +33588,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(40, 25)": {
@@ -34329,7 +34329,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(41, 15)": {
@@ -34345,10 +34345,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 16)": {
@@ -34364,10 +34364,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 17)": {
@@ -34383,10 +34383,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 18)": {
@@ -34402,10 +34402,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 19)": {
@@ -34421,10 +34421,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 2)": {
@@ -34459,10 +34459,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 21)": {
@@ -34478,10 +34478,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 22)": {
@@ -34497,10 +34497,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(41, 23)": {
@@ -34519,7 +34519,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(41, 24)": {
@@ -34538,7 +34538,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(41, 25)": {
@@ -35279,7 +35279,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(42, 15)": {
@@ -35298,7 +35298,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(42, 16)": {
@@ -35314,10 +35314,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(42, 17)": {
@@ -35333,10 +35333,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(42, 18)": {
@@ -35352,10 +35352,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(42, 19)": {
@@ -35371,10 +35371,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(42, 2)": {
@@ -35409,10 +35409,10 @@
         "tile_color": [
             255, 
             255, 
-            255, 
+            155, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 12, 
         "walkable": true
     }, 
     "(42, 21)": {
@@ -35431,7 +35431,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(42, 22)": {
@@ -35450,7 +35450,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(42, 23)": {
@@ -35469,7 +35469,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(42, 24)": {
@@ -36267,7 +36267,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(43, 17)": {
@@ -36286,7 +36286,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(43, 18)": {
@@ -36305,7 +36305,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(43, 19)": {
@@ -36324,7 +36324,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(43, 2)": {
@@ -36362,7 +36362,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(43, 21)": {
@@ -36381,7 +36381,7 @@
             255, 
             255
         ], 
-        "tile_id": 96, 
+        "tile_id": 1, 
         "walkable": true
     }, 
     "(43, 22)": {
@@ -45648,12 +45648,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 11)": {
@@ -45667,12 +45667,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 12)": {
@@ -45686,12 +45686,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 13)": {
@@ -45705,12 +45705,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 14)": {
@@ -45724,12 +45724,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 15)": {
@@ -45743,12 +45743,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 16)": {
@@ -45762,12 +45762,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 17)": {
@@ -45781,12 +45781,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 18)": {
@@ -45800,12 +45800,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 19)": {
@@ -45819,12 +45819,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 2)": {
@@ -45857,12 +45857,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 21)": {
@@ -46484,12 +46484,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 7)": {
@@ -46503,12 +46503,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 8)": {
@@ -46522,12 +46522,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(8, 9)": {
@@ -46541,12 +46541,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 0)": {
@@ -46598,12 +46598,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 11)": {
@@ -46617,12 +46617,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 12)": {
@@ -46636,12 +46636,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 13)": {
@@ -46655,12 +46655,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 14)": {
@@ -46674,12 +46674,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 15)": {
@@ -46693,12 +46693,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 16)": {
@@ -46712,12 +46712,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 17)": {
@@ -46731,12 +46731,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 18)": {
@@ -46750,12 +46750,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 19)": {
@@ -46769,12 +46769,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 2)": {
@@ -46807,12 +46807,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 21)": {
@@ -47434,12 +47434,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 7)": {
@@ -47453,12 +47453,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 8)": {
@@ -47472,12 +47472,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }, 
     "(9, 9)": {
@@ -47491,12 +47491,12 @@
         "entity_id": 0, 
         "is_grass": false, 
         "tile_color": [
-            155, 
-            145, 
+            255, 
+            255, 
             255, 
             255
         ], 
-        "tile_id": 1, 
+        "tile_id": 96, 
         "walkable": true
     }
 }
