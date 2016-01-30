@@ -52,7 +52,9 @@ class World:
 					"tile_color"	: self.tileInfo_grid[x][y].color,
 					"entity_id"		: self.tileInfo_grid[x][y].entity_id,
 					"entity_color"	: self.tileInfo_grid[x][y].entity_color,
-					"is_grass"		: self.tileInfo_grid[x][y].is_grass
+					"is_grass"		: self.tileInfo_grid[x][y].is_grass,
+					"walkable"		: self.tileInfo_grid[x][y].walkable,
+					"dir_wall"		: self.tileInfo_grid[x][y].dir_wall
 				}
 
 				data[str((x,y))] = temp_dir
@@ -72,14 +74,21 @@ class World:
 					self.tileInfo_grid[x][y].entity_id 		= temp["entity_id"]
 					self.tileInfo_grid[x][y].entity_color 	= temp["entity_color"]
 					self.tileInfo_grid[x][y].is_grass		= temp["is_grass"]
+					self.tileInfo_grid[x][y].walkable		= temp["walkable"]
+					self.tileInfo_grid[x][y].dir_wall		= temp["dir_wall"]
 
 					grid_id 	= self.tileInfo_grid[x][y].grid_id
 					entity_id 	= self.tileInfo_grid[x][y].entity_id 
 
 					if grid_id == 96:
-						grid_id = 35
+						grid_id = 16
 
-					grid_surf_copy 		= self.graphics.floor_tiles[grid_id].copy()
+					if temp["walkable"]:
+						grid_surf_copy 		= self.graphics.floor_tiles[grid_id].copy()
+					else:
+						grid_surf_copy 		= self.graphics.wall_tiles[grid_id].copy()
+
+					
 					entity_surf_copy 	= self.graphics.other_tiles[entity_id].copy()
 
 					self.graphics.brute_force_colorize(grid_surf_copy, self.tileInfo_grid[x][y].color )
@@ -91,10 +100,11 @@ class World:
 
 class TileInfo:
 
-	def __init__(self, grid_id = 6*16, entity_id = 0, color = (255,255,255,255), is_grass = False, entity_color = (255,255,255,255)):
+	def __init__(self, grid_id = 6*16, entity_id = 0, color = (255,255,255,255), dir_wall = False, is_grass = False, entity_color = (255,255,255,255), walkable = True):
 		self.grid_id = grid_id
 		self.entity_id = entity_id
 		self.color = color
 		self.entity_color = entity_color
 		self.is_grass = is_grass
-
+		self.walkable = walkable
+		self.dir_wall = dir_wall

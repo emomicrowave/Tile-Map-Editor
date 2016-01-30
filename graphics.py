@@ -7,8 +7,9 @@ class Graphics:
 
 		self.already_colored_grass = False
 
-		self.all_tiles    = []
+		self.all_tiles   = []
 		self.floor_tiles = []
+		self.wall_tiles  = []
 		self.other_tiles = []
 
 		self.load_graphics()
@@ -18,6 +19,7 @@ class Graphics:
 		self.all_tiles 		= self.ss.load_all_to_list(16, 16, 16, 16, (128, 128, 128, 255))
 		self.floor_tiles 	= self.define_floor_tiles((128, 128, 128, 255))
 		self.other_tiles 	= self.define_other_tiles((128, 128, 128, 255))
+		self.wall_tiles		= self.define_wall_tiles((128,128,128,255))
 
 		# Add colored grass to the tileset
 		if not self.already_colored_grass:
@@ -31,10 +33,7 @@ class Graphics:
 			rekt_list = []
 			tile_list = []
 
-			coords = [
-				(7,11), (8,11), (9,11), (10,11), (11,11), (12,11), (13,11), (14,11),
-				  (8,12), (9,12), (10,12), (11,12), (12,12), (13,12), (14,12),
-					 (3,13), (4,13), (5,13), (6,13)]
+			coords = []
 
 			# 16 tiles
 			rekt_list.append([7*16, 2*16, 16, 16])
@@ -53,6 +52,35 @@ class Graphics:
 			rekt_list.append([13*16, 13*16, 16, 16])
 			rekt_list.append([4*16, 15*16, 16, 16])
 			rekt_list.append([7*16, 15*16, 16, 16])
+
+			for rekt in rekt_list:
+				tile_list.append(self.ss.image_at(rekt, colorkey))
+
+			for tile in tile_list:
+				self.remove_bad_pixels(tile, (128,128,128,255))
+
+			for i in range(len(coords)):
+				tile_list.append(self.ss.image_at([coords[i][0]*16, coords[i][1]*16, 16, 16], colorkey))
+
+			return tile_list
+
+	def define_wall_tiles(self, colorkey = None):
+			rekt_list = []
+			tile_list = []
+
+			coords = [
+				 (8,11), (9,11), (10,11), (14,11),
+				  (8,12), (9,12), (10,12), (11,12), (12,12), (13,12), (14,12), (5,13)]
+
+			
+			rekt_list.append([12*16, 2*16, 16, 16])
+			rekt_list.append([14*16, 2*16, 16, 16])
+			rekt_list.append([13*16, 3*16, 16, 16])
+		
+			rekt_list.append([14*16, 8*16, 16, 16])
+			rekt_list.append([0*16, 11*16, 16, 16])
+			rekt_list.append([1*16, 11*16, 16, 16])
+			rekt_list.append([2*16, 11*16, 16, 16])
 
 			for rekt in rekt_list:
 				tile_list.append(self.ss.image_at(rekt, colorkey))

@@ -1,12 +1,12 @@
 import pygame, os
-import tools, spritesheet, graphics
+import tools, spritesheet, graphics, buttons
 from tools import Color
 from world import World
 SCR_RESOLUTION = (1390,900)
 
 pygame .init()
 display = pygame.display.set_mode(SCR_RESOLUTION)
-pygame.display.set_caption("Ascii Map Editor v 0.3")
+pygame.display.set_caption("Ascii Map Editor v 0.4")
 
 exitGame = False
 
@@ -15,7 +15,7 @@ exitGame = False
 graphics 	= graphics.Graphics()
 col 		= Color()
 world 		= World(50, 50, graphics) # Leave 50x50 for now
-button 		= tools.Buttons(world, graphics)
+button 		= buttons.Buttons(world, graphics)
 
 world.allPlains()
 
@@ -42,6 +42,7 @@ while not exitGame:
 	#print world.grid[0][0].get_at((1,1))
 	#print len(tools.button_grid)
 	#print world.tileInfo_grid[0][0].color
+	#print tools.rect_mouse_start
 
 	pygame.display.update()
 
